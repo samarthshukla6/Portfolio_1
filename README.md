@@ -24,6 +24,7 @@ Building this portfolio project has been a significant learning experience for m
 
 ## Working Video
 
+https://github.com/samarthshukla6/Portfolio_1/assets/141849001/a72cfb85-9c40-407f-958a-a72639530495
 
 ## Getting Started
 
